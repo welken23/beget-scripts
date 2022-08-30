@@ -3,7 +3,7 @@ Useful scripts for automating routine actions when working with hosting
 
 # Examples of use
 
-- **beget-python-install.sh** - A script to automatically build the required version of Python 3 for use on Beget hosting, as well as installing Django or Flask
+**beget-python-install.sh** - A script to automatically build the required version of Python 3 for use on Beget hosting, as well as installing Django or Flask
 
 # Usage
 
